@@ -21,7 +21,8 @@
   },
   "theme": {
     "images": {
-      "theme_ntp_background": "images/theme_ntp_background_norepeat.jpg"
+      "theme_ntp_background": "images/theme_ntp_background_norepeat.jpg",
+      "theme_ntp_attribution": "images/attribution.png"
     },
     "colors": {
       "toolbar": [36, 41, 47],
