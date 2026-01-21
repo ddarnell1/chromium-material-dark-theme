@@ -1,7 +1,7 @@
-# Thorium Material Dark Theme
+# Chromium Material Dark Theme
 
-# <img src="https://github.com/Alex313031/Thorium-Theme/blob/main/src/icons/icon_128.png">
+<!-- <img src="https://github.com/Alex313031/Thorium-Theme/blob/main/src/icons/icon_128.png"> -->
 
- - A Dark theme for Chromium Browser adhering to Material Design principles.
+ - A dark theme for Chromium Browser adhering to Material Design principles.
 
-Inspired by this theme -> https://github.com/Alex313031/thorium-material-dark-theme
+Inspired by this dark Thorium theme -> https://github.com/Alex313031/thorium-material-dark-theme
