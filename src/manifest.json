@@ -1,24 +1,13 @@
-// Copyright (c) 2026 ddarnell1. //
-
 {
   "manifest_version": 3,
-  "version": "0.1.4",
-  "version_name": "0.1.4",
+  "version": "0.1.5",
+  "version_name": "0.1.5",
   "name": "Chromium Material Dark Theme",
   "short_name": "Chromium Dark Theme",
   "author": "ddarnell1",
   "description": "Dark theme for Chromium Browser adhering to Material Design principles.",
   "offline_enabled": true,
   "minimum_chrome_version": "88",
-  "icons": {
-    "16": "icons/icon_16.png",
-    "24": "icons/icon_24.png",
-    "32": "icons/icon_32.png",
-    "48": "icons/icon_48.png",
-    "64": "icons/icon_64.png",
-    "128": "icons/icon_128.png",
-    "256": "icons/icon_256.png"
-  },
   "theme": {
     "images": {
       "theme_ntp_background": "images/theme_ntp_background_norepeat.jpg"
